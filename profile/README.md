@@ -81,7 +81,7 @@ http://localhost/api/dynamic_doc/swagger/v1/
 - клонировать репозиторий
 
 ```
-git@github.com:hackathon-plus-second-team/development-tracker-backend.git
+git@github.com:hackathon-plus-second-team/development-tracker-frontend.git
 ```
 
 - запустить сборку контейнеров:
